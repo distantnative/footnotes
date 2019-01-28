@@ -1,9 +1,11 @@
-![Footnotes for Kirby CMS](https://cloud.githubusercontent.com/assets/3788865/18232002/fa5e3a3c-72c6-11e6-8ba2-d91a7d55b1d5.png)  
+# Footnotes for Kirby 2 CMS
 
 [![Release](https://img.shields.io/github/release/distantnative/footnotes.svg)](https://github.com/distantnative/footnotes/releases)  [![Issues](https://img.shields.io/github/issues/distantnative/footnotes.svg)](https://github.com/distantnative/footnotes/issues)
 [![Moral License](https://img.shields.io/badge/buy-moral_license-8dae28.svg)](https://gumroad.com/l/kirby-footnotes)
 
 This plugin extends [Kirby CMS](http://getkirby.com) with some basic and extremely easy footnote functionalities. The syntax is simple to understand and if the plugin is removed the remaining text still makes sense.
+
+**With the release of [Kirby 3](https://getkirby.com), this plugin has been archived and will not be maintained.**
 
 
 ## Table of Contents
